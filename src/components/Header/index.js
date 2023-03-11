@@ -1,11 +1,12 @@
 import Nav from "../Nav";
+import "./style.css";
 
 function Header({ currentPage, handlePageChange }) {
 
     return (
-        <div >
+        <div className="header">
             <section>
-                <header className="d-flex justify-content-around py-5">
+                <header className="d-flex justify-content-around py-2">
                     <div>
                         <h1>Kida's Portfolio</h1>
                     </div>
@@ -19,7 +20,7 @@ function Header({ currentPage, handlePageChange }) {
             </section>
             <section className="text-center">
                 <div>
-                    <p>
+                    <p className="bg-image">
                         Welcome to Kida's portfolio page built with React.
                     </p>
                 </div>
