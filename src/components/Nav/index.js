@@ -1,4 +1,5 @@
 import React from 'react';
+import "./style.css";
 
 // Destructuring variables from the props object
 function Nav(props) {
