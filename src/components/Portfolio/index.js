@@ -8,7 +8,7 @@ import './style.css'
 
 function Portfolio() {
   return (
-    <div>
+    <div className="container">
       <section>
         <div className="row px-5">
           <h1 className="section-title text-center p-3">Work</h1>
