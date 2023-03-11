@@ -1,9 +1,11 @@
 import { useState } from 'react';
 import About from './About';
 import Contact from './Contact';
+import Footer from './Footer';
 import Header from './Header';
 import Portfolio from './Portfolio';
 import Resume from './Resume';
+
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About');
@@ -31,6 +33,7 @@ export default function PortfolioContainer() {
       <Header currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Method to return a component  */}
       {renderPage()}
+      <Footer />
     </div>
   );
 }
