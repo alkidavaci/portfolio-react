@@ -2,7 +2,7 @@ import { useState } from 'react';
 import About from './About';
 import Contact from './Contact';
 import Header from './Header';
-import Portfolio from './pages/Portfolio';
+import Portfolio from './Portfolio';
 import Resume from './pages/Resume';
 
 export default function PortfolioContainer() {
