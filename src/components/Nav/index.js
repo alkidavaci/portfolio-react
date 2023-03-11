@@ -3,7 +3,7 @@ import React from 'react';
 // Destructuring variables from the props object
 function Nav({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
+    <ul className="nav nav-tabs d-flex justify-content-around">
       <li className="nav-item">
         <a
           href="#About"
