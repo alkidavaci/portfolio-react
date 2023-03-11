@@ -1,6 +1,6 @@
 import Nav from "../Nav";
 
-function Header({ currentTab, handleTabChange }) {
+function Header({ currentPage, handlePageChange }) {
 
     return (
         <div >
@@ -11,8 +11,8 @@ function Header({ currentTab, handleTabChange }) {
                     </div>
                     <div>
                         <Nav
-                            currentTab={currentTab}
-                            handleTabChange={handleTabChange}
+                            currentPage={currentPage}
+                            handlePageChange={handlePageChange}
                         ></Nav>
                     </div>
                 </header>
