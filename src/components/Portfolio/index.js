@@ -10,7 +10,7 @@ function Portfolio() {
   return (
     <div>
       <section>
-        <div className="row p-3">
+        <div className="row px-5">
           <h1 className="section-title text-center p-3">Work</h1>
 
           <div className="col-md-12">

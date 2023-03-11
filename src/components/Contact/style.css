@@ -1,6 +1,8 @@
 /* Set the background color of the page */
 body {
     background-color: #f8f9fa;
+      overflow-x: hidden;
+   
   }
   .contact-header{
     padding-bottom: 0;
