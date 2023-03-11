@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/alkidavaci/portfolio-react/static/css/main.3f5cbc6c.css",
+    "main.js": "/alkidavaci/portfolio-react/static/js/main.d491ca9f.js",
+    "static/media/MARV'S SPORTS.png": "/alkidavaci/portfolio-react/static/media/MARV'S SPORTS.b9b6e6801ebce862a347.png",
+    "static/media/real estate.png": "/alkidavaci/portfolio-react/static/media/real estate.5d2cd14744c1ae7982bb.png",
+    "static/media/kida1.jpg": "/alkidavaci/portfolio-react/static/media/kida1.e535a1373a5c6c0f406e.jpg",
+    "static/media/5-day-forcast.png": "/alkidavaci/portfolio-react/static/media/5-day-forcast.841eeba7da86a82d9e6f.png",
+    "static/media/resume.png": "/alkidavaci/portfolio-react/static/media/resume.ea653502326f7aad1fbd.png",
+    "static/media/background.jpg": "/alkidavaci/portfolio-react/static/media/background.26408a658592193271d4.jpg",
+    "static/media/albanian quiz.png": "/alkidavaci/portfolio-react/static/media/albanian quiz.cbe245909d7aebb9c6c6.png",
+    "index.html": "/alkidavaci/portfolio-react/index.html",
+    "main.3f5cbc6c.css.map": "/alkidavaci/portfolio-react/static/css/main.3f5cbc6c.css.map",
+    "main.d491ca9f.js.map": "/alkidavaci/portfolio-react/static/js/main.d491ca9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f5cbc6c.css",
+    "static/js/main.d491ca9f.js"
+  ]
+}
