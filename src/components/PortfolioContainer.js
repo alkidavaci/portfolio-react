@@ -6,7 +6,7 @@ import Portfolio from './Portfolio';
 import Resume from './Resume';
 
 export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('Home');
+  const [currentPage, setCurrentPage] = useState('About');
 
   // Check the value of `currentPage` and return the corresponding component to render.
   const renderPage = () => {

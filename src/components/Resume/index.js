@@ -13,8 +13,8 @@ function Resume() {
               <img id="resume" src={resume} alt="thumbnail of resume" className="small-img"></img>
               <div>
                 <a href="https://drive.google.com/file/d/11WckioRQxmNzs-tut5YPLU0BN-FSY3tR/view?usp=sharing" >
-               </a> 
                <button className="button" type="submit" value="Submit">Open Resume</button>
+               </a> 
                </div>
             </div>
             <div className="col-md-6">
