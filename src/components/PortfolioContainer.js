@@ -3,7 +3,7 @@ import About from './About';
 import Contact from './Contact';
 import Header from './Header';
 import Portfolio from './Portfolio';
-import Resume from './pages/Resume';
+import Resume from './Resume';
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('Home');
